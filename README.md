@@ -62,3 +62,12 @@ Everyone delivers the same repo as solution.
 
 The [Html-Template-Engine library](https://github.com/alesanchezr/html-template-engine) is being used as template engine for building the landing page.
 
+## Colaborators
+
+1) Navbar: Victor Guarino
+2) Tagline: Victor Guarino
+3) First Heading: Manuel Oliveros
+4) Services: Manuel Oliveros
+5) Portfolio: Miguel Cabrera
+6) Contact: Juan Cabrera 
+6) Footer: Juan Cabrera
